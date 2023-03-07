@@ -1,0 +1,175 @@
+body{
+    background-color: #f1f3f5;
+}
+.div1{
+    display: flex;
+    gap: 40px;
+}
+.nav1{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+.nav2{
+    display: flex;
+    gap: 30px;
+    margin-left: 25%;
+    list-style: none;
+}
+nav a:hover,
+a:active{
+    color: rgba(70, 70, 126, 0.342);
+}
+nav a:link,
+a:visited{
+    color: black;
+}
+.rede{
+    color: #f783ac;   
+}
+.pinke{
+    color: #f783ac;
+}
+.btn2{
+    padding: 10px;
+   background-color:  #ffa8a8;
+   border: none;
+}
+.icon2{
+    background-color: #ffa8a8;
+    margin-top: -2%;
+    border-radius: 50%;
+}
+.btnic{
+    display: flex;
+}
+.div2 h1{
+    font-weight: 10;
+    font-size: 70px;
+}
+.div3{
+    display: flex;
+}
+.foot{
+    display: flex;
+    background-color: #f06595;
+    gap: 80px;
+    padding: 30px;
+}
+.footer1 li{
+    list-style: none;
+    text-decoration: none;
+}
+.subscribe{
+    background-color: #ffa8a8;
+    
+}
+.div10{
+    padding: 100px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 90px;
+    margin: 10%;
+    
+}
+.mwk{
+    display: flex;
+    gap: 30px;
+    margin: 3% 18px;
+}
+.mwk2{
+    display: flex;
+    gap: 40px;
+}
+.sct3 h3{
+    text-align: center;
+    font-weight: 100;
+    font-size: 50px;
+}
+.sct3 ul{
+    display: flex;
+    gap:  40px;
+    list-style: none;
+    font-size: 28px;
+    font-weight: 25;
+}
+.btn4{
+    border-color: #f783ac;
+    color: #f783ac;
+    margin-left: 45%;
+    padding: 8px;
+}
+.newarrivals{
+    display: flex;
+    gap: 30px;
+    margin: 0% 7%;
+}
+.whitel{
+    display: flex;
+    gap: 30px;
+    background-color: #e9ecef;
+    border-radius: 20px;
+}
+.blackl{
+    display: flex;
+    gap: 30px;
+    background-color: #e9ecef;
+    border-radius: 20px;
+}
+.arrive h4{
+    margin-left: 50%;
+}
+.divh4{
+    margin-left: 40%;
+    font-size: 40px;
+    font-weight: 100;
+}
+.rights{
+    text-align: center;
+}
+.bestcollection{
+    display: flex;
+    gap: 20px;
+}
+.nike1{
+    border-radius: 30px;  
+    background-color: #dee2e6; 
+}
+.puma1{
+    border-radius: 30px; 
+    border: solid;
+    background-color: #dee2e6;
+
+}
+.adidas1{
+    border-radius: 30px; 
+    background-color: #dee2e6;
+} 
+#nike2{
+    float: right;
+}
+#adidas2{
+    float: right;
+}
+#puma2{
+    float: right;
+}
+.bigshoe{
+    float: right;
+}
+.sele{
+    border: none;
+}
+.btn55{
+    padding: 1px;
+}
+#pum2{
+    -webkit-transform: rotate(-30deg);
+    background-image: none;
+}
+#nik22{
+    transform: rotate(-30deg);
+}
+#adid222{
+    transform: rotate(-30deg);
+}
